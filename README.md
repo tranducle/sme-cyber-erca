@@ -5,7 +5,7 @@
 
 ## Overview
 
-Cybersecurity maturity assessments often evaluate capability without referencing the organization's underlying digital exposure. This study evaluates the empirical criterion validity of **Exposure-Response Co-Alignment (ERCA)**—the principle that cybersecurity response capacity should be measured relative to digital exposure demand. 
+Cybersecurity maturity assessments often evaluate capability without referencing the organization's underlying digital exposure. This study evaluates the empirical criterion validity of **Exposure-Response Co-Alignment (ERCA)** - the principle that cybersecurity response capacity should be measured relative to digital exposure demand. 
 
 Using harmonized microdata from the UK Cyber Security Breaches Survey (CSBS) and the Cyber Security Longitudinal Survey (CSLS), we conduct a prespecified polynomial logistic analysis to test whether a higher response capacity at a given level of exposure yields the protective pattern implied by an adequacy interpretation.
 
