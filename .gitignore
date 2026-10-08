@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+data/raw/
+data/processed/
+results/
+*.pdf
+*.tex
+*.png
